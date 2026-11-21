@@ -4,8 +4,6 @@
 
 *Create more than you consume.*
 
-I make a lot of stuff.
-
 [ign.land](https://ign.land) · [telepathy.ac](https://telepathy.ac) · [users.land](https://users.land)
 
 **Contact:** [Telegram](https://t.me/cabal5)
