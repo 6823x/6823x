@@ -2,30 +2,12 @@
 
 # 6823x
 
-**Developer building things for the web and beyond.**
+*Create more than you consume.*
 
-Web apps · Automation · Game development
+I make a lot of projects.
 
-</div>
+[ign.land](https://ign.land) · [telepathy.ac](https://telepathy.ac) · [users.land](https://users.land)
 
----
+**Contact:** [Telegram](https://t.me/cabal5)
 
-### About
-
-I enjoy building practical tools, experimenting with new ideas, and refining projects until they're simple, fast, and easy to use.
-
-### What I work on
-
-- **Web development** — interfaces, platforms, and full-stack applications
-- **Tools & automation** — utilities that make repetitive work easier
-- **Game development** — gameplay systems, servers, and custom features
-
-### Tools & technologies
-
-`JavaScript` · `TypeScript` · `Python` · `HTML/CSS` · `Git`
-
----
-
-<div align="center">
-  <sub>Always building, always improving.</sub>
 </div>
