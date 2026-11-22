@@ -1,13 +1,11 @@
 <div align="center">
-<br><br>
+
+# 6823x
+
 *Create more than you consume.*
 
-<br>
+[ign.land](https://ign.land) · [telepathy.ac](https://telepathy.ac) · [users.land](https://users.land)
 
-[ign.land](https://ign.land) &nbsp;·&nbsp; [telepathy.ac](https://telepathy.ac) &nbsp;·&nbsp; [users.land](https://users.land)
-
-<br>
-
-[Telegram](https://t.me/cabal5)
+**Contact:** [Telegram](https://t.me/cabal5)
 
 </div>
