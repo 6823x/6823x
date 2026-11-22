@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="248" viewBox="0 0 1200 248" role="img" aria-label="Abstract graphite profile banner">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10131b"/><stop offset=".52" stop-color="#080b11"/><stop offset="1" stop-color="#121722"/></linearGradient>
+<radialGradient id="light" cx="50%" cy="49%" r="47%"><stop stop-color="#9da9bf" stop-opacity=".19"/><stop offset=".41" stop-color="#6b7c98" stop-opacity=".08"/><stop offset="1" stop-color="#6b7c98" stop-opacity="0"/></radialGradient>
+<linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6b7890" stop-opacity="0"/><stop offset=".28" stop-color="#8999b5" stop-opacity=".3"/><stop offset=".50" stop-color="#e0e6ee" stop-opacity=".75"/><stop offset=".72" stop-color="#8999b5" stop-opacity=".3"/><stop offset="1" stop-color="#6b7890" stop-opacity="0"/></linearGradient>
+<pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".65" fill="#a5b0c4" opacity=".16"/></pattern>
+<clipPath id="clip"><rect width="1200" height="248" rx="15"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="248" fill="url(#bg)"/><rect width="1200" height="248" fill="url(#dots)"/><rect x="195" y="-230" width="810" height="710" fill="url(#light)"/>
+<g fill="none" stroke="#96a2b7" stroke-width="1">
+<path d="M-55 215 C135 94 304 108 464 126" opacity=".16"/><path d="M-55 201 C135 80 304 94 464 112" opacity=".12"/><path d="M-55 187 C135 66 304 80 464 98" opacity=".09"/>
+<path d="M1255 33 C1065 154 896 140 736 122" opacity=".16"/><path d="M1255 47 C1065 168 896 154 736 136" opacity=".12"/><path d="M1255 61 C1065 182 896 168 736 150" opacity=".09"/>
+<circle cx="600" cy="124" r="108" opacity=".11"/><circle cx="600" cy="124" r="88" opacity=".19"/><circle cx="600" cy="124" r="70" opacity=".16"/></g>
+<circle cx="600" cy="124" r="54" fill="#0c1018" stroke="#b5c0d0" stroke-opacity=".4"/><circle cx="600" cy="124" r="47" fill="none" stroke="#a7b5ca" stroke-opacity=".16"/>
+<path d="M600 59 A65 65 0 0 1 665 124" fill="none" stroke="#dce3ef" opacity=".55" stroke-width="1.8"/><path d="M600 189 A65 65 0 0 1 535 124" fill="none" stroke="#dce3ef" opacity=".25" stroke-width="1.8"/>
+<path d="M100 124 H503 M697 124 H1100" stroke="url(#stroke)" stroke-width="1"/><path d="M100 132 H455 M745 116 H1100" stroke="#bfc9d9" stroke-opacity=".09" stroke-width="1"/>
+<g fill="#b9c6d9" opacity=".47"><circle cx="100" cy="124" r="2"/><circle cx="1100" cy="124" r="2"/><circle cx="503" cy="124" r="2"/><circle cx="697" cy="124" r="2"/>
+<path d="M95 32 h20 v1 h-20 z M95 33 v16 h1 v-16 z M1105 32 h-20 v1 h20 z M1104 33 v16 h1 v-16 z"/>
+<path d="M95 216 h20 v-1 h-20 z M95 215 v-16 h1 v16 z M1105 216 h-20 v-1 h20 z M1104 215 v-16 h1 v16 z"/></g>
+</g></svg>
