@@ -1,7 +1,5 @@
 <div align="center">
-
 <br><br>
-
 *Create more than you consume.*
 
 <br>
